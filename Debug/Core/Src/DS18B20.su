@@ -1,0 +1,13 @@
+DS18B20.c:14:22:DelayMicro	16	static
+DS18B20.c:21:6:port_init	8	static
+DS18B20.c:29:9:ds18b20_Reset	16	static
+DS18B20.c:42:9:ds18b20_ReadBit	16	static
+DS18B20.c:54:9:ds18b20_ReadByte	16	static
+DS18B20.c:62:6:ds18b20_WriteBit	16	static
+DS18B20.c:70:6:ds18b20_WriteByte	24	static
+DS18B20.c:81:9:ds18b20_SearhRom	32	static
+DS18B20.c:165:9:ds18b20_init	32	static
+DS18B20.c:216:6:ds18b20_MeasureTemperCmd	24	static
+DS18B20.c:239:6:ds18b20_ReadStratcpad	32	static
+DS18B20.c:265:9:ds18b20_GetSign	16	static
+DS18B20.c:272:7:ds18b20_Convert	24	static

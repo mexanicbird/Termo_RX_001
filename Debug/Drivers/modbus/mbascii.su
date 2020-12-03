@@ -1,0 +1,11 @@
+mbascii.c:108:1:eMBASCIIInit	24	static
+mbascii.c:131:1:eMBASCIIStart	8	static
+mbascii.c:143:1:eMBASCIIStop	8	static
+mbascii.c:152:1:eMBASCIIReceive	32	static
+mbascii.c:185:1:eMBASCIISend	24	static
+mbascii.c:222:1:xMBASCIIReceiveFSM	16	static
+mbascii.c:331:1:xMBASCIITransmitFSM	16	static
+mbascii.c:411:1:xMBASCIITimerT1SExpired	8	static
+mbascii.c:435:1:prvucMBCHAR2BIN	16	static
+mbascii.c:452:1:prvucMBBIN2CHAR	16	static
+mbascii.c:472:1:prvucMBLRC	24	static
